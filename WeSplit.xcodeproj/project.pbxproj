@@ -45,6 +45,11 @@
 			path = WeSplitUITests;
 			sourceTree = "<group>";
 		};
+		5C4B3C602E874EE30014DC94 /* Screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +80,7 @@
 		5C4B3BEC2E8330770014DC94 = {
 			isa = PBXGroup;
 			children = (
+				5C4B3C602E874EE30014DC94 /* Screenshots */,
 				5C4B3BF72E8330770014DC94 /* WeSplit */,
 				5C4B3C052E8330770014DC94 /* WeSplitTests */,
 				5C4B3C0F2E8330770014DC94 /* WeSplitUITests */,
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				5C4B3BF72E8330770014DC94 /* WeSplit */,
+				5C4B3C602E874EE30014DC94 /* Screenshots */,
 			);
 			name = WeSplit;
 			packageProductDependencies = (
